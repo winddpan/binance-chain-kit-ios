@@ -7,7 +7,7 @@ https://github.com/Alamofire/Alamofire.git
 
 Installing Alamofire (5.2.2) ✅
 Installing BinanceChainKit.swift (0.3.4)
-Installing GRDB.swift (4.14.0)
+Installing GRDB.swift (4.14.0) ✅
 Installing HdWalletKit.swift (1.5.1)
 Installing HsToolKit.swift (1.1.0)
 Installing ObjectMapper (3.5.3) ✅
@@ -23,3 +23,4 @@ Installing SwiftyJSON (4.3.0) ✅
 .package(url: "https://github.com/ReactiveX/RxSwift.git", from: "5.1.1"),
 .package(url: "https://github.com/tristanhimmelman/ObjectMapper.git", from: "3.5.3"),
 .package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.2.2"),
+.package(name: "GRDB", url: "https://github.com/groue/GRDB.swift.git", from: "5.3.0"),
