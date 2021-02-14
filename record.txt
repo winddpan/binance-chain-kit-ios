@@ -1,0 +1,25 @@
+https://github.com/apple/swift-protobuf.git
+https://github.com/SwiftyJSON/SwiftyJSON.git
+https://github.com/ReactiveX/RxSwift.git
+https://github.com/tristanhimmelman/ObjectMapper.git
+https://github.com/Alamofire/Alamofire.git
+
+
+Installing Alamofire (5.2.2) ✅
+Installing BinanceChainKit.swift (0.3.4)
+Installing GRDB.swift (4.14.0)
+Installing HdWalletKit.swift (1.5.1)
+Installing HsToolKit.swift (1.1.0)
+Installing ObjectMapper (3.5.3) ✅
+Installing OpenSslKit.swift (1.2.2)
+Installing RxSwift (5.1.1) ✅
+Installing Secp256k1Kit.swift (1.1)
+Installing SwiftProtobuf (1.15.0) ✅
+Installing SwiftyJSON (4.3.0) ✅
+
+
+.package(url: "https://github.com/apple/swift-protobuf.git", from: "1.15.0"),
+.package(url: "https://github.com/SwiftyJSON/SwiftyJSON.git", from: "4.3.0"),
+.package(url: "https://github.com/ReactiveX/RxSwift.git", from: "5.1.1"),
+.package(url: "https://github.com/tristanhimmelman/ObjectMapper.git", from: "3.5.3"),
+.package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.2.2"),
